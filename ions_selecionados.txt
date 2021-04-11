@@ -1,0 +1,8 @@
+7            ! Numero de intervalos de atomos definidos abaixo 
+7   43  sim
+50  83  sim
+90  94  sim
+321 357 sim
+364 390 sim
+401 407 sim
+412 416 sim

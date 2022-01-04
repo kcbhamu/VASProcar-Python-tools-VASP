@@ -1,5 +1,0 @@
-
-gfortran [nome do códifo] -o [nome de saída].x
-
-(compilar em 64 bits)
-gfortran [nome do códifo] -o [nome de saída].x -maix64

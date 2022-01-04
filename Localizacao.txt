@@ -1,0 +1,5 @@
+4           ! Nº de linhas a serem lidas abaixo (Exemplo)
+1   3  A    ! intervalo de ions pertencentes a região A.
+4   7  B    ! intervalo de ions pertencentes a região B.
+9  16  C    ! intervalo de ions pertencentes a região C.
+25 33  A    ! intervalo de ions pertencentes a região A.

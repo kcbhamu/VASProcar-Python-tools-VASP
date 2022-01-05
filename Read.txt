@@ -1,10 +1,10 @@
 Tool in the Python 3 language to extract from the VASP output files (CONTCAR, OUTCAR, PROCAR).
 
 Texturas.py: Provides the band structure as well as the projections of the orbitals (S, P, D, Px, Py, Pz) and the spin components (Sx, Sy, Sz).
-input files: input_Texturas.txt and ions_selecionados.txt 
+input files: input_Texturas.txt
 
-Contribuicao_dos_ions.py: Gives the contribution of each ion for a given band and dot-k in the form of a txt file.
-input files: input_Contribuicao_ions.txt
+Contribuicao.py: Gives the contribution of each ion for a given band and dot-k in the form of a txt file.
+input files: input_Contribuicao.txt
 
-Localizacao_dos_Estados.py: Allows you to define 3 regions(A, B, C) of your crystal lattice and make a projection in the band structure, of the contribution of each region for each band and k-point.
-input files: input_Localizacao.txt and Localizacao.txt
+Localizacao.py: Allows you to define 3 regions(A, B, C) of your crystal lattice and make a projection in the band structure, of the contribution of each region for each band and k-point.
+input files: input_Localizacao.txt

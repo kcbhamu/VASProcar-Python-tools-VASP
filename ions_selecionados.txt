@@ -1,4 +1,0 @@
-3              ! Nº de intervalos de Valores a serem lidos abaixo (Exemplo)
-1   4  sim     ! 1º intervalo de ions que serão levados em consideração nas projeções.
-7  16  sim     ! 2º intervalo de ions que serão levados em consideração nas projeções.
-25 33  sim     ! 3º intervalo de ions que serão levados em consideração nas projeções.

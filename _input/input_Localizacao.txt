@@ -1,0 +1,19 @@
+------------------------------------------------------------- 
+Escolha a dimensao do eixo-k: 
+Utilize 1 para k em unidades de 2pi/Param com Param em Angs. 
+Utilize 2 para k em unidades de 1/Angs. 
+Utilize 3 para k em unidades de 1/nm. 
+1 
+------------------------------------------------------------------------------ 
+Digite o tamanho/peso das esferas do grafico: 
+1.0 
+------------------------------------------------------------------------------ 
+Digite o valor minimo de Contribuição do estado a ser mostrado no Plot: 
+0.0 
+-------------------------------------------------------------------------------------- 
+Adicione nas linhas abaixo o nº de intervalos de ions que definem as regiões: 
+1           ! Nº de linhas a serem lidas abaixo. 
+1   2  A    ! intervalo de ions pertencentes a região A. 
+5   7  B    ! intervalo de ions pertencentes a região B. 
+9  16  C    ! intervalo de ions pertencentes a região C. 
+25 33  A    ! intervalo de ions pertencentes a região A. 

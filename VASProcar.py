@@ -11,7 +11,7 @@ print ("##############################################################")
 print (" ")
 
 ########################################################################
-######### Forma de Obtenção dos parâmetros de input do código: #########
+######### Forma de obtenção dos parâmetros de input do código: #########
 ###### [Leitura = 1] Os parâmetros são lidos de arquivos de input ######
 ###### [Leitura = 0] Os parâmetros são introduzidos pelo usuário #######
 #################### durante a execução do código ######################

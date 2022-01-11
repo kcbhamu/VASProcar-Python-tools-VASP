@@ -120,7 +120,7 @@ for i in range(3):
 for point_k in range(1, (nk+1)):
 
     if (point_k == 1):
-           print("Analisando o arquivo PROCAR)  
+           print("Analisando o arquivo PROCAR")  
 
     if (point_k > point_antes and point_k < point_depois):            # Criterio para definir quais pontos-k serão analisados.            
 

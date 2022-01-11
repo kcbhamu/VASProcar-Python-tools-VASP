@@ -160,7 +160,7 @@ for wp in range(1, (n_procar+1)):
 #######################################################################
 
         if (n_procar == 1 and point_k == 1):
-           print("Analisando o arquivo PROCAR)
+           print("Analisando o arquivo PROCAR")
 
         if (n_procar > 1 and point_k == 1):
            print("Analisando o arquivo PROCAR",wp)

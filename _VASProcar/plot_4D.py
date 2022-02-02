@@ -163,6 +163,12 @@ if (Dimensao == 4):
        aspectmode = 'cube'),
        width = 700,
        margin = dict(r = 20, b = 10, l = 10, t = 10))
+   
+# Image export using the "kaleido" engine requires the kaleido package, which can be installed using pip: pip install -U kaleido
+
+# fig.write_image("saida/Plot_4D/plot_4d.png")
+# fig.write_image("saida/Plot_4D/plot_4d.pdf")
+# fig.write_image("saida/Plot_4D/plot_4d.eps")   
                      
 fig.show()
 

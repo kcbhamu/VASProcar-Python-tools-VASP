@@ -28,7 +28,7 @@ import os
 # [2] Adotar como parâmetro o menor valor entre os modulos dos vetores
 #     primitivos da rede cristalina (A1, A2 e A3). 
 #-----------------------------------------------------------------------
-param_estim = 2
+param_estim = 1
 
 #----------------------------------------------------------------------
 # Cores utilizadas no plot das Projeções: (GRACE) ---------------------

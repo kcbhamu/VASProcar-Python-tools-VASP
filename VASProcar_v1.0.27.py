@@ -18,7 +18,7 @@ print (" ")
 import os
 
 #--------------------------------------------------------------------------------------------------------------
-# Caso queira modificar a localização da pasta "_VASProcar", informe o novo diretório abaixo, como por exemplo:
+# Caso queira modificar a localização da pasta "_VASProcar", informe abaixo o novo diretório, como por exemplo:
 # Diretorio = 'C:\Program Files\_VASProcar'
 #--------------------------------------------------------------------------------------------------------------
 Diretorio = '_VASProcar'  # Diretorio = '_VASProcar'

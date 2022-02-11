@@ -24,7 +24,7 @@ import os
 Diretorio = '_VASProcar'  # Diretorio = '_VASProcar'
 
 #----------------------------------------------------------------------
-# Lendo as configurações gerais do VASProcar --------------------------
+# Lendo as configurações gerais e executando o VASProcar --------------
 #----------------------------------------------------------------------
 executavel = Diretorio + '/_configuracoes.py'
 exec(open(executavel).read())

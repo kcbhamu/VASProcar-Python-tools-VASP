@@ -129,7 +129,7 @@ print(f'Aplicando Correcao ({porc}%)')
 #---------------------------------------------------------------------------
 
 procar_old = open("PROCAR_New10", "r"); procar_new = open("PROCAR_New11", "w")
-for line in procar_old: mprocar_new.write(line.replace('9-', '9 -'))     
+for line in procar_old: procar_new.write(line.replace('9-', '9 -'))     
 procar_old.close(); procar_new.close()
 os.remove("PROCAR_New10")
 

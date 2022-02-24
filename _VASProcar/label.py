@@ -83,7 +83,7 @@ if (dest_k == 2):
    label.write(f' \n')
    label.write(f'===================================================================================================== \n')
    label.write(f'Simbolos gregos: https://www.infoescola.com/wp-content/uploads/2012/05/alfabeto-grego_173660282-1.jpg \n')
-   label.write(f'Para inserir simbolos gregos como rotulo dos pontos-k, utilize a nomenclatura definida abaixo:        \n')
+   label.write(f'Para inserir simbolos gregos como rotulo dos pontos-k, utilize a nomenclatura/numeracao abaixo:       \n')
    label.write(f'===================================================================================================== \n')
    label.write(f' \n')
    label.write("Gamma   =   [1]  |  gamma   =   [2]  |  Delta =   [3]  |  delta =   [4] \n") 

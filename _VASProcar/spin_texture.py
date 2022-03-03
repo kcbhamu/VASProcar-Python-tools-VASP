@@ -206,8 +206,8 @@ if (Plano_k == 1):  # Plano (kx,ky) ou (k1,k2)
       if (norma.min() > 0.01):     
          Spin_Sx = Spin_Sx/norma
          Spin_Sy = Spin_Sy/norma
-      if (Spin_Sz.max() > 0.01):   
-         Spin_Sz = Spin_Sz/Spin_Sz.max()       
+      # if (Spin_Sz.max() > 0.01):   
+         # Spin_Sz = Spin_Sz/Spin_Sz.max()       
    #---------------------------------------------
    Si_min  = Spin_Sz.min()
    Si_max  = Spin_Sz.max()      
@@ -222,8 +222,8 @@ if (Plano_k == 2):  # Plano (kx,kz) ou (k1,k3)
       if (norma.min() > 0.01):
          Spin_Sx = Spin_Sx/norma
          Spin_Sz = Spin_Sz/norma
-      if (Spin_Sy.max() > 0.01):     
-         Spin_Sy = Spin_Sy/Spin_Sy.max()     
+      # if (Spin_Sy.max() > 0.01):     
+         # Spin_Sy = Spin_Sy/Spin_Sy.max()     
    #---------------------------------------------
    Si_min  = Spin_Sy.min()
    Si_max  = Spin_Sy.max()
@@ -238,8 +238,8 @@ if (Plano_k == 3):  # Plano (ky,kz) ou (k2,k3)
       if (norma.min() > 0.01):
          Spin_Sy = Spin_Sy/norma
          Spin_Sz = Spin_Sz/norma
-      if (Spin_Sx.max() > 0.01):     
-         Spin_Sx = Spin_Sx/Spin_Sx.max()     
+      # if (Spin_Sx.max() > 0.01):     
+         # Spin_Sx = Spin_Sx/Spin_Sx.max()     
    #---------------------------------------------
    Si_min  = Spin_Sx.min()
    Si_max  = Spin_Sx.max()   

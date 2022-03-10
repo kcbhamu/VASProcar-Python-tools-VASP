@@ -1,0 +1,11 @@
+@software{augusto_de_lelis_araujo_2022_6343960,
+  author       = {Augusto de Lelis Araújo and
+                  Renan da Paixão Maciel},
+  title        = {VASProcar Tools Python v1.0.54},
+  month        = mar,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {1.0.54},
+  doi          = {10.5281/zenodo.6343960},
+  url          = {https://doi.org/10.5281/zenodo.6343960}
+}

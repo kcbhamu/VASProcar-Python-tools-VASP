@@ -101,18 +101,6 @@ if (escolha == 1 or escolha == -1):
     escolha = int(escolha)
     print(" ")
 
-# ----------------------------------------------------------------------
-# Copiando arquivo para a pasta de output: -----------------------------
-# ----------------------------------------------------------------------
-
-source = main_dir + '/etc/BibTeX.dat'
-destination = 'output/BibTeX.dat'
-shutil.copyfile(source, destination)
-
-source = main_dir + '/etc/DOI.png'
-destination = 'output/DOI.png'
-shutil.copyfile(source, destination)
-
 if (escolha == 1 or escolha == -1):
     execute_python_file(filename = '/bandas_2D.py')
     

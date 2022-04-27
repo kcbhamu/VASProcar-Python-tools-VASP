@@ -23,7 +23,7 @@ print(" ")
 
 print("##########################################################################")
 print("# Arquivos basicos para execucao: CONTCAR, OUTCAR e PROCAR               #")
-print("# Dependendo do calculo: KPOINTS, DOSCAR, LOCPOT, WAVECAR ou vasprun.xm  #")
+print("# Dependendo do calculo: KPOINTS, DOSCAR, LOCPOT, WAVECAR ou vasprun.xml #")
 print("##########################################################################")   
 print(" ")
 

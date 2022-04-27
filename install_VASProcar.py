@@ -35,7 +35,7 @@ print("")
 
 print("")
 print("=================================================================")
-print("Observação:                                                      ")
+print("Observacao:                                                      ")
 print("Para o codigo funcionar corretamente, ele deve ter sido instalado")
 print("em um diretorio do tipo:                                         ")
 print("-----------------------------------------------------------------")

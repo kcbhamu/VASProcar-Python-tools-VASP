@@ -1,4 +1,4 @@
-# VASProcar-Python-tools-VASP https://doi.org/10.5281/zenodo.6343960
+# VASProcar-Python-tools-VASP (version 1.1.01) https://doi.org/10.5281/zenodo.6343960
 
 ------------------------------------------------------------------------
 
